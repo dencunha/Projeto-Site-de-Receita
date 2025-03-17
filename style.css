@@ -1,0 +1,39 @@
+body {
+  font-family: "Alice", serif;
+  
+}
+
+main {
+  background-color: #F0E8C2;
+  width: 800px;
+  border-radius: 24px;
+  margin: auto;
+
+}
+
+img {
+  margin: 24px 24px 0 24px;
+  border-radius: 16px;
+
+}
+
+section {
+  margin: 24px;
+  text-align: justify
+  
+}
+
+
+
+h1 {
+  line-height: 140%;
+}
+
+h1, h2 {
+  color: #291B1A;
+}
+
+h2, p {
+  line-height: 150%;
+}
+
